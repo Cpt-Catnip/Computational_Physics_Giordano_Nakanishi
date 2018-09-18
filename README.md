@@ -5,6 +5,4 @@ I decided to start this project for two reasons: the first is that, when I first
 
 Although this is mostly for personal use and isn't meant to be a study guide of any kind, I hope that somebody might find it useful.
 
-This repository will likely be updated very infrequently over the summer since I'll be preparing for the PGRE and GRE, which will take up most of my free time. 
-
 Thank you. 
